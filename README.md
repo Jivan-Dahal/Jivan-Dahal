@@ -49,8 +49,8 @@ I'm a **results-driven** full-stack developer specializing in building scalable,
 ## 📬 **Connect With Me**  
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="jivandahal.com.np"><img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
+  <a href="#">LinkedIn</a>
+  <a href="jivandahal.com.np">Portfolio</a>
  
 </p>
 
