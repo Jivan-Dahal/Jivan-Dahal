@@ -33,16 +33,7 @@ I'm a **results-driven** full-stack developer specializing in building scalable,
 
 ---
 
-## 📌 **Featured Projects** 🚀  
 
-
-
-
-### **🌐 Portfolio Website - [Portfolio](https://github.com/Jivan-Dahal/portfolio-website)**
-📌 **Interactive personal portfolio showcasing projects & skills**  
-✅ Dynamic blog section  
-✅ Responsive design  
-✅ Contact form with notifications  
 
 ---
 
