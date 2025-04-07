@@ -35,7 +35,7 @@ I'm a **results-driven** full-stack developer specializing in building scalable,
 
 ## 📌 **Featured Projects** 🚀  
 
-### **🛒 eCommerce Platform - [QR Serve](https://github.com/Jivan-Dahal/QR-Serve)**
+
 
 
 ### **🌐 Portfolio Website - [Portfolio](https://github.com/Jivan-Dahal/portfolio-website)**
