@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://github.com/Jivan-Dahal/Jivan-Dahal/raw/main/animated-banner.gif" alt="Jivan Dahal -  Full Stack Developer" width="100%">
 </p>
-![Profile views](https://komarev.com/ghpvc/?username=Jivan-Dahal&label=Profile%20views&color=008069&style=flat-square)
+
 
 ---
 
